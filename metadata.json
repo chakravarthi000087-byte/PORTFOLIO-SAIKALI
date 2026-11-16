@@ -1,0 +1,6 @@
+{
+  "name": "A. Sai Kali Chakravarthi Portfolio",
+  "description": "Interactive CSE developer portfolio powered by a Python backend data-processing API and ready for Vercel deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
